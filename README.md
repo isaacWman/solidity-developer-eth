@@ -1,7 +1,7 @@
 # The Solidity Contract-Oriented Programming Language
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/solidity_lang?style=plastic&logo=twitter)](https://twitter.com/IsaacWman)
+[![Twitter Follow](https://img.shields.io/twitter/follow/IsaacWman?style=plastic&logo=twitter)](https://twitter.com/IsaacWman)
 
 
 ## Table of Contents
